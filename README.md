@@ -7,7 +7,7 @@ In this document you can see the prototype of product operations for both page A
 
 
 
-Modules In This Project.
+ # Modules In This Project.
 
 ⦁	Sign-Up/Registration Page.. 
 ⦁	User Login. 
@@ -21,7 +21,7 @@ Modules In This Project.
 
 
 
-#Java (Core) Technology Used :
+# Java (Core) Technology Used :
 
 ⦁	@Controller:   For using class as controller class 
 ⦁	@Service:      To indicate class as Service 
@@ -44,7 +44,7 @@ Technology Used:
     b. Spring Web.
     c. Spring Data JPA.
 
-The Administrator Can:
+# The Administrator Can:
 ⦁	Manage the products in the store.
 ⦁	categorizing the products in the store.
 ⦁	Browse the list of users who have signed up .
@@ -61,11 +61,15 @@ User EndPoints:
 
  
 
-The users interfaces
+# The users interfaces
 ⦁	sign-up/register to step in to application.
+
 ⦁	Based on the login credentials the user will be able to buy a product..
+
 ⦁	Users can select the product based on the product name.
+
 ⦁	Can add the products to the cart.
+
 ⦁	Users Can be able to browse the products  based on the category.
 
 
